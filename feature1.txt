@@ -18,3 +18,6 @@ git push origin <branchname>
 
 ### Pushing the feature branchname
 git push --set-upstream origin <branchname>  e.g git push --set-upstream origin feature1
+
+
+Made changes to feature 1 on linux system
