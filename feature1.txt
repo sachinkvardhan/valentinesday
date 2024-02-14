@@ -1,3 +1,20 @@
-This is my feature 1
-I am also changing
-I am making some change
+
+
+## add the files  - > Move the files to staging area from working dir
+git add .   # To add all the files
+or
+git add <filename> # To add specific files
+
+
+## to move files to local repo
+git commit -m "This is the commit I am making"
+
+
+## push into the remote repo
+git push
+or
+git push origin <branchname>
+
+
+### Pushing the feature branchname
+git push --set-upstream origin <branchname>  e.g git push --set-upstream origin feature1
